@@ -11,13 +11,13 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Screenshots
 
-![](./assets/images/desktop-screenshot.png)
-![](./assets/images/mobile-screenshot.png)
+![](./images/desktop-screenshot.png)
+![](./images/mobile-screenshot.png)
 
 ## Links
 
-- Solution URL: (https://github.com/ggencas/QR-code-component)
-- Live Site URL: (https://ggencas.github.io/QR-code-component/)
+- Solution URL: [https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV/hub](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV/hub)
+- Live Site URL: [https://ggencas.github.io/results-summary-component/](https://ggencas.github.io/results-summary-component/)
 
 ### Built with
 
@@ -30,3 +30,4 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - GitHub - [ggencas](https://github.com/ggencas)
 - Frontend Mentor - [@ggencas](https://www.frontendmentor.io/profile/ggencas)
 - LinkedIn - [Gintaras Gencas](https://www.linkedin.com/in/gintaras-gencas/)
+
